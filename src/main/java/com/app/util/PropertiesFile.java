@@ -15,7 +15,8 @@ public class PropertiesFile {
 				propsd.load(is);
 			} catch (Exception e) {
 				e.printStackTrace();
-			} 			
+			} 
+			
 	}
 	
 	public static Properties getProperties() {
