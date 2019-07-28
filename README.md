@@ -1,0 +1,2 @@
+# JUnitAllTestEx
+Junit all test
